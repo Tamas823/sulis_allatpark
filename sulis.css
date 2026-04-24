@@ -1,3 +1,17 @@
+body {
+    background-color: #f1fbff ;
+    color: #40409b;
+    margin: 20px 0;
+}
+
+.baloldal {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    margin: 20px;
+    background-color: #99cde2;
+}
+
 .kerek
 {
     border-radius: 30px;
